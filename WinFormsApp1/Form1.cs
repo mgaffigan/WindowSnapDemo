@@ -1,6 +1,5 @@
 using Esatto.Win32.Windows;
 using Esatto.Win32.Wpf;
-using Windows.Win32;
 
 namespace WinFormsApp1
 {

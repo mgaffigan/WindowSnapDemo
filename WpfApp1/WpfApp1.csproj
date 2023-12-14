@@ -8,6 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Reference Include="C:\dev\source\repos\Esatto.Win32\Esatto.Win32.CommonControls\bin\Debug\net7.0-windows\Esatto.Win32.CommonControls.dll" />
+    <PackageReference Include="Esatto.Win32.CommonControls" Version="*" />
   </ItemGroup>
 </Project>
